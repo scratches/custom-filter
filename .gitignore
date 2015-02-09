@@ -1,0 +1,16 @@
+*#
+.#*
+*~
+build/
+target/
+bin/
+.classpath
+.project
+.DS_Store
+.settings/
+.springBeans
+*.iml
+*.iws
+*.ipr
+.idea/
+./code/
